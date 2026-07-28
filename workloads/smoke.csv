@@ -1,0 +1,3 @@
+# name,period_s,bytes_per_file,num_files,node_count
+s1,1.0,4096,100,8
+s2,1.0,1048576,10,4
