@@ -1,6 +1,6 @@
 
 [{{NAME}}]
-directory={{TARGET}}/{{NAME}}
+directory={{DIRS}}
 numjobs={{COUNT}}
 bs={{BYTES}}
 filesize={{BYTES}}
@@ -8,4 +8,4 @@ rate={{RATE}}
 nrfiles={{NRFILES}}
 write_iops_log={{LOGDIR}}/{{NAME}}
 write_bw_log={{LOGDIR}}/{{NAME}}
-write_lat_log={{LOGDIR}}/{{NAME}}
+write_lat_log={{LOGDIR}}/{{NAME}
